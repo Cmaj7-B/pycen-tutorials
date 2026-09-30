@@ -51,5 +51,5 @@ pip install pycen==0.1.0a4
 
 ## Notes
 - Python 3.10+
-- optional: U.S. Census API key: https://api.census.gov/data/key_signup.html
+- U.S. Census API key (required): https://www.census.gov/data/developers.html
 - PyPI: https://pypi.org/project/pycen/
