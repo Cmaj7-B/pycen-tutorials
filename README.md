@@ -35,11 +35,9 @@ flowchart TD
 ## Installation
 
 ```bash
-# first-time install, or fresh environment
-pip install --pre pycen  # pre-release version
-
-# specify a particular version
-pip install pycen==0.1.0a4
+pip install pycen           # Python 3.10+
+pip install -U pycen        # upgrade an existing install
+pip install pycen==0.1.0a5  # specify a particular version
 ```
 
 ## Tutorials
